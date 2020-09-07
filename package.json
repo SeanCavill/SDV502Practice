@@ -1,0 +1,19 @@
+{
+  "name": "sdv502practice",
+  "version": "1.0.0",
+  "description": "SDV502",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanCavill/SDV502Practice.git"
+  },
+  "author": "Sean Cavill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanCavill/SDV502Practice/issues"
+  },
+  "homepage": "https://github.com/SeanCavill/SDV502Practice#readme"
+}
